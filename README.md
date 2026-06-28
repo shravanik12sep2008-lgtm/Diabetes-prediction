@@ -36,4 +36,4 @@ This project predicts whether a person has diabetes or not using Machine Learnin
 
 ## Developed By
 
-Sanika Narale
+Shravani Kumbhar
